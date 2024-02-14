@@ -22,7 +22,7 @@ n’importe quelle date du temps nous régissant. Le lieu, l’heure et la date 
 paramétrables dans l’application. Un programme exécutable ainsi qu’un tutoriel seront fournis.
 Les hypothèses de travail sont à répertorier.
 
-# 3 étapes ensuite :
+# 3 étapes :
 ## Déterminer le « product backlog » du projet :
 A partir de la demande client listée ci-dessus, déterminer le product backlog du projet.
 Ce dernier comprendra bien sûr les fonctionnalités (User Stories) demandées, et aussi d’autres éléments
