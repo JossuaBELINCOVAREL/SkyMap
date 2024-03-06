@@ -20,6 +20,8 @@ affichable dans une page « Web ».
 ### Voir au moins les 50 étoiles les plus proches de la Terre, visibles à l'œil nu.
 **En tant** qu'utilisateur **je veux** Filtrer au moins les 50 étoiles les plus proches de la Terre **Pour** voir au moins les 50 étoiles les plus proches de la Terre visible à l'oeil nu.
 
+**Technical :**
+
 ### Voir au moins les 50 étoiles les plus brillantes.
 **En tant** qu'utilisateur **Je veux** Filter au moins les 50 étoiles les plus brillantes. **Pour** voir au moins les 50 étoiles les plus brillantes de la constellation choisie.
 
